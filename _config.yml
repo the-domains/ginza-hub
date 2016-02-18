@@ -1,0 +1,28 @@
+name: Ginza Hub
+favicon: null
+layout_spectrum: 0.7890918939374387
+typography_spectrum: 0.8255419614724815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.14808328542858362
+  lightness: 0.9368470057379454
+  saturation: 0.9893599646165967
+  rhythmicContrast: 0.6421555047854781
+purpose: []
