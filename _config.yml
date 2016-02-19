@@ -1,6 +1,6 @@
 name: Ginza Hub
 favicon: null
-layout_spectrum: 0.49523
+layout_spectrum: 1
 typography_spectrum: 0.8255419614724815
 title: Self-service Co-working Space
 cta:
@@ -22,7 +22,7 @@ color:
     - '#4b4340'
     - '#96928f'
     - '#4c8f27'
-  brandStrength: 0.14808328542858362
+  brandStrength: 0.1875
   lightness: 0.9368470057379454
   saturation: 0.9893599646165967
   rhythmicContrast: 0.6421555047854781
